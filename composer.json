@@ -26,6 +26,6 @@
             "Uginroot\\AsyncSymfonyProcess\\Test\\": "tests"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
